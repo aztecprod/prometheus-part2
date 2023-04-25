@@ -1,1 +1,10 @@
-# prometheus-part2
+# "Prometheus-part2 - Александр Шевцов"
+![image](https://user-images.githubusercontent.com/25949605/234308616-5dec2db2-527a-4e44-82c6-5723e24c29b0.png)
+![image](https://user-images.githubusercontent.com/25949605/234308624-2a6579fa-666e-4a71-b0d0-e80329c19d2c.png)
+![image](https://user-images.githubusercontent.com/25949605/234308629-c63435cc-f169-4285-ad3c-f7b90a108686.png)
+![image](https://user-images.githubusercontent.com/25949605/234308647-9183d041-19c9-4522-b0ad-5545cb0a9ba7.png)
+![image](https://user-images.githubusercontent.com/25949605/234308666-35e803d3-8bb5-4cf8-a84a-d770b70f6693.png)
+![image](https://user-images.githubusercontent.com/25949605/234308697-a7ee4546-8280-4000-aef0-535e53840b50.png)
+![image](https://user-images.githubusercontent.com/25949605/234308713-7b4d4956-7869-4a97-a319-5a2c9367d0ce.png)
+![image](https://user-images.githubusercontent.com/25949605/234308740-44b5782f-2ba7-435d-8ff6-41789629cf48.png)
+![image](https://user-images.githubusercontent.com/25949605/234308758-4dc65936-5901-4c5c-930b-b3f67b75e4e6.png)
